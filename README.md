@@ -96,6 +96,7 @@ docker run -itv /path/to/host_2:/home/host_2 --name=host_2 <image_id> bash
 docker run -itv /path/to/host_3:/home/host_3 --name=host_3 <image_id> bash
 docker run -itv /path/to/host_4:/home/host_4 --name=host_4 <image_id> bash
 docker run -itv /path/to/host_5:/home/host_5 --name=host_5 <image_id> bash
+```
 <img width="363" height="154" alt="image" src="https://github.com/user-attachments/assets/daa2d71b-cbfd-4b3b-a0d8-b588bab590a6" />
 <img width="377" height="144" alt="image" src="https://github.com/user-attachments/assets/ea8e51e5-4653-457a-a2a4-5b21f3bdc6a1" />
 <img width="415" height="152" alt="image" src="https://github.com/user-attachments/assets/9e9a2417-71cc-4c73-a97b-6cab9322f28f" />
